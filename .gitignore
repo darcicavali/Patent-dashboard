@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Node / Next.js (for later phases)
+node_modules/
+.next/
+out/
+.vercel
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# NOTE: the repo is currently PRIVATE, so raw source files and internal
+# business metadata are committed. If this repo is ever made public,
+# uncomment the lines below to strip confidential material.
+#
+# data/raw/
+# data/internal/

@@ -1,0 +1,257 @@
+{
+  "product_lines": [
+    {
+      "name": "Flushometer",
+      "count": 194,
+      "aliases": []
+    },
+    {
+      "name": "Faucet",
+      "count": 48,
+      "aliases": []
+    },
+    {
+      "name": "Sloan Water Technology",
+      "count": 43,
+      "aliases": []
+    },
+    {
+      "name": "Fixture",
+      "count": 41,
+      "aliases": []
+    },
+    {
+      "name": "Sink",
+      "count": 24,
+      "aliases": []
+    },
+    {
+      "name": "IOT",
+      "count": 21,
+      "aliases": []
+    },
+    {
+      "name": "Foundry",
+      "count": 12,
+      "aliases": []
+    },
+    {
+      "name": "Others",
+      "count": 4,
+      "aliases": []
+    },
+    {
+      "name": "Sink/IOT",
+      "count": 1,
+      "aliases": []
+    },
+    {
+      "name": "Hand dryer",
+      "count": 1,
+      "aliases": []
+    }
+  ],
+  "models": [
+    {
+      "name": "No product",
+      "count": 104,
+      "product_line": null
+    },
+    {
+      "name": "Uppercut",
+      "count": 33,
+      "product_line": null
+    },
+    {
+      "name": "Haleo",
+      "count": 21,
+      "product_line": null
+    },
+    {
+      "name": "TRF, CX",
+      "count": 17,
+      "product_line": null
+    },
+    {
+      "name": "EBF425, ETF420",
+      "count": 17,
+      "product_line": null
+    },
+    {
+      "name": "Crown",
+      "count": 13,
+      "product_line": null
+    },
+    {
+      "name": "DFSM, ECOS, Solis",
+      "count": 12,
+      "product_line": null
+    },
+    {
+      "name": "EFX",
+      "count": 12,
+      "product_line": null
+    },
+    {
+      "name": "Royal HEU, Royal RW",
+      "count": 9,
+      "product_line": null
+    },
+    {
+      "name": "ST-2459",
+      "count": 9,
+      "product_line": null
+    },
+    {
+      "name": "TRF",
+      "count": 9,
+      "product_line": null
+    },
+    {
+      "name": "CX",
+      "count": 9,
+      "product_line": null
+    },
+    {
+      "name": "EBV200A (Smooth)",
+      "count": 8,
+      "product_line": null
+    },
+    {
+      "name": "Crown ESS (optima)",
+      "count": 7,
+      "product_line": null
+    },
+    {
+      "name": "Gem, Crown",
+      "count": 7,
+      "product_line": null
+    },
+    {
+      "name": "HYB-1000-RET",
+      "count": 6,
+      "product_line": null
+    },
+    {
+      "name": "DFSM",
+      "count": 6,
+      "product_line": null
+    },
+    {
+      "name": "A-237-shark tooth diaphragm",
+      "count": 5,
+      "product_line": null
+    },
+    {
+      "name": "SU-7409, SU-7419",
+      "count": 5,
+      "product_line": null
+    },
+    {
+      "name": "V500AA, V600AA",
+      "count": 4,
+      "product_line": null
+    },
+    {
+      "name": "EBV200A",
+      "count": 3,
+      "product_line": null
+    },
+    {
+      "name": "EBV500, EBV550",
+      "count": 3,
+      "product_line": null
+    },
+    {
+      "name": "AD81000,AD82000,AD83000,AD84000",
+      "count": 3,
+      "product_line": null
+    },
+    {
+      "name": "H-1018-A",
+      "count": 3,
+      "product_line": null
+    },
+    {
+      "name": "ECF100",
+      "count": 2,
+      "product_line": null
+    },
+    {
+      "name": "ETF-740-A, EBF-550, EBF-650, EBF-750",
+      "count": 2,
+      "product_line": null
+    },
+    {
+      "name": "Optima - Royal 111 ESS",
+      "count": 1,
+      "product_line": null
+    },
+    {
+      "name": "EW-6xxxx & EW-7xxxx series",
+      "count": 1,
+      "product_line": null
+    },
+    {
+      "name": "Solis",
+      "count": 1,
+      "product_line": null
+    },
+    {
+      "name": "EFX-6xx",
+      "count": 1,
+      "product_line": null
+    },
+    {
+      "name": "EFX-2xx",
+      "count": 1,
+      "product_line": null
+    },
+    {
+      "name": "EFX-8xx",
+      "count": 1,
+      "product_line": null
+    },
+    {
+      "name": "EFX-1xx",
+      "count": 1,
+      "product_line": null
+    },
+    {
+      "name": "EBF825, ETF820",
+      "count": 1,
+      "product_line": null
+    },
+    {
+      "name": "EBF815, ETF810",
+      "count": 1,
+      "product_line": null
+    },
+    {
+      "name": "EBF415, ETF410",
+      "count": 1,
+      "product_line": null
+    },
+    {
+      "name": "EFX-3xx, EFX-6xx",
+      "count": 1,
+      "product_line": null
+    },
+    {
+      "name": "Control stop offset adaptor",
+      "count": 1,
+      "product_line": null
+    },
+    {
+      "name": "SU-7009, SU-7019",
+      "count": 1,
+      "product_line": null
+    },
+    {
+      "name": "EBV-500, EBV550",
+      "count": 1,
+      "product_line": null
+    }
+  ],
+  "technology_clusters": []
+}
