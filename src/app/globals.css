@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #f6f8fb;
+  --foreground: #0f172a;
+}
+
+html,
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Table polish */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+/* Subtle status pill styles */
+.status-pill {
+  @apply inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium ring-1 ring-inset;
+}
+
+.status-active  { @apply bg-green-50 text-green-700 ring-green-200; }
+.status-pending { @apply bg-amber-50 text-amber-700 ring-amber-200; }
+.status-expired { @apply bg-gray-100 text-gray-700 ring-gray-300; }
+.status-dead    { @apply bg-red-50  text-red-700  ring-red-200; }
+.status-unknown { @apply bg-yellow-50 text-yellow-700 ring-yellow-300; }
