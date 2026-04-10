@@ -1,0 +1,61 @@
+{
+  "sloan_rules": [
+    {
+      "pattern": "\\bsloan\\s*valve\\b",
+      "normalized": "Sloan Valve Company",
+      "is_confirmed_sloan": true
+    },
+    {
+      "pattern": "\\bsolan\\s*valve\\b",
+      "normalized": "Sloan Valve Company",
+      "is_confirmed_sloan": true
+    },
+    {
+      "pattern": "\\bwilliam\\s*e\\.?\\s*sloan\\b",
+      "normalized": "Sloan Valve Company",
+      "is_confirmed_sloan": true
+    },
+    {
+      "pattern": "\\be\\.?\\s*sloan\\s*william\\b",
+      "normalized": "Sloan Valve Company",
+      "is_confirmed_sloan": true
+    },
+    {
+      "pattern": "\\bsloan\\s*transportation\\b",
+      "normalized": "Sloan Transportation Products",
+      "is_confirmed_sloan": false
+    },
+    {
+      "pattern": "sloan\\s*water\\s*technology",
+      "normalized": "Sloan Water Technology",
+      "is_confirmed_sloan": true
+    },
+    {
+      "pattern": "stone\\s*and\\s*steel\\s*systems",
+      "normalized": "Stone And Steel Systems",
+      "is_confirmed_sloan": true
+    },
+    {
+      "pattern": "arichell\\s*technolog",
+      "normalized": "Arichell Technologies",
+      "is_confirmed_sloan": true
+    },
+    {
+      "pattern": "recurrent\\s*solutions",
+      "normalized": "Recurrent Solutions",
+      "is_confirmed_sloan": true
+    }
+  ],
+  "known_non_sloan": [
+    "bauer industries",
+    "haldex midland brake",
+    "hewlett packard",
+    "midland brake",
+    "mitsubishi electric",
+    "modus systems",
+    "railtech",
+    "smart wave technologies",
+    "tooshlights"
+  ],
+  "note": "Edit scripts/normalize.py to adjust these rules. After editing, re-run `python3 scripts/ingest.py` to regenerate all outputs."
+}

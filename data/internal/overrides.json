@@ -1,0 +1,11 @@
+{
+  "overrides": [],
+  "schema": {
+    "id": "UUID of the patent being overridden",
+    "field": "status | product_line | technology_cluster | assignee_confirmed | exclude | notes",
+    "value": "new value (type depends on field)",
+    "reason": "why the override was applied",
+    "applied_by": "username",
+    "applied_at": "ISO timestamp"
+  }
+}
